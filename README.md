@@ -20,5 +20,6 @@ models = [
 
 local = 'stylegan3-t-ffhq-1024x1024.pkl',
 hiroshan =['stylegan3-t-ffhqu-1024x1024.pkl', 'stylegan3-t-ffhqu-256x256.pkl', 'stylegan3-r-ffhq-1024x1024.pkl']
-ishan = [' stylegan3-r-ffhqu-1024x1024.pkl', 'stylegan3-r-ffhqu-256x256.pkl','stylegan3-t-metfaces-1024x1024.pkl', 'stylegan3-t-metfacesu-1024x1024.pkl']
-santhusha = [ 'stylegan3-r-metfaces-1024x1024.pkl', 'stylegan3-r-metfacesu-1024x1024.pkl','stylegan3-t-afhqv2-512x512.pkl', 'stylegan3-r-afhqv2-512x512.pkl']
+ishan = [' stylegan3-r-ffhqu-1024x1024.pkl', 'stylegan3-r-ffhqu-256x256.pkl','stylegan3-t-metfaces-1024x1024.pkl']
+santhusha = [ 'stylegan3-r-metfaces-1024x1024.pkl', 'stylegan3-r-metfacesu-1024x1024.pkl','stylegan3-t-afhqv2-512x512.pkl']
+hasantha = [ 'stylegan3-r-afhqv2-512x512.pkl' , 'stylegan3-t-metfacesu-1024x1024.pkl']
